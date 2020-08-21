@@ -1,3 +1,3 @@
 👋
 
-return new Hello.world('by @dotmi');
+return hello.World('by @dotmi');
