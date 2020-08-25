@@ -1,1 +1,1 @@
-return hello.World('by @dotmi');
+return 'Hello World!';
